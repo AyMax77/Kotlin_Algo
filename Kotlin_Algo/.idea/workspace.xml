@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6efda9ca-f5d5-4850-96b0-e2862bc62994" name="Changes" comment="Exo fini">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,31 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.SUJ_01_a_ChercherLeMaxKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SUJ_01_b_TrouverValeurPremierKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SUJ_01_c_TrouverValeurDernierKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SUJ_01_d_NombreOccurrencesKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SUJ_04_e_TrouverGeneKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/sio/IdeaProjects/Work_Space_Dehay/Kotlin_Algo&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.SUJ_01_a_ChercherLeMaxKt.executor": "Run",
+    "Kotlin.SUJ_01_b_TrouverValeurPremierKt.executor": "Run",
+    "Kotlin.SUJ_01_c_TrouverValeurDernierKt.executor": "Run",
+    "Kotlin.SUJ_01_d_NombreOccurrencesKt.executor": "Run",
+    "Kotlin.SUJ_01_e_MoyennePondereeKt.executor": "Run",
+    "Kotlin.SUJ_04_e_TrouverGeneKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/sio/IdeaProjects/Work_Space_Dehay/Kotlin_Algo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
@@ -80,7 +81,7 @@
       <recent name="D:\HOME\ljules\Documents\01-TRAVAIL\02-ACTIVITES\60-SIO\01-DEV\02-Kotlin\07-EntrainementAlgo\algo\src\main\kotlin\_04_Autres\_1_Sujets" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SUJ_01_c_TrouverValeurDernierKt">
+  <component name="RunManager" selected="Kotlin.SUJ_02_a_RechercheDichotomiqueKt">
     <configuration name="COR_01_a_ChercherLeMaxKt" type="JetRunConfigurationType">
       <option name="MAIN_CLASS_NAME" value="_01_Les_basiques._2_Corrections.COR_01_a_ChercherLeMaxKt" />
       <module name="algo" />
@@ -409,7 +410,33 @@
       <workItem from="1726072179051" duration="5786000" />
       <workItem from="1726083256969" duration="1142000" />
       <workItem from="1726143666153" duration="66000" />
+      <workItem from="1726143748105" duration="1094000" />
     </task>
+    <task id="LOCAL-00001" summary="Exo fini">
+      <option name="closed" value="true" />
+      <created>1726143899190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726143899190</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exo fini">
+      <option name="closed" value="true" />
+      <created>1726144023517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726144023517</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exo fini">
+      <option name="closed" value="true" />
+      <created>1726144275170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726144275170</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,5 +452,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exo fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exo fini" />
   </component>
 </project>
