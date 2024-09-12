@@ -18,13 +18,25 @@ import _10_Demos_et_tests.testerEnLot
  */
 
 fun supprimerDoublons(liste: List<Int>): MutableList<Int> {
-    // Copie de la liste :
-    val listeCopie = liste.toMutableList()
+    // Create a new list to store the result without duplicates
+    val listeSansDoublons = mutableListOf<Int>()
+    // Create a set to track seen elements
+    val elementsSeen = mutableSetOf<Int>()
 
-    // A COMPLETER ICI
+    // Iterate over each element in the original list
+    for (element in liste) {
+        // Check if the element has not been seen before
+        if (element !in elementsSeen) {
+            // Add it to the result list
+            listeSansDoublons.add(element)
+            // Mark the element as seen
+            elementsSeen.add(element)
+        }
+    }
 
-    return listeCopie
+    return listeSansDoublons
 }
+
 
 /* -------------------
     Données de test
